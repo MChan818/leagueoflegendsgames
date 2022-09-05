@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.caebb327.css",
-    "main.js": "/static/js/main.cce3757a.js",
-    "static/media/fondo.jpg": "/static/media/fondo.e5237cefa42314995c34.jpg",
-    "static/media/logo.jpg": "/static/media/logo.f159f0951a43a9b99317.jpg",
-    "index.html": "/index.html",
-    "main.caebb327.css.map": "/static/css/main.caebb327.css.map",
-    "main.cce3757a.js.map": "/static/js/main.cce3757a.js.map"
+    "main.css": "/leagueoflegendsgames/static/css/main.6d0a86db.css",
+    "main.js": "/leagueoflegendsgames/static/js/main.d820b443.js",
+    "static/media/fondo.jpg": "/leagueoflegendsgames/static/media/fondo.e5237cefa42314995c34.jpg",
+    "static/media/logo.jpg": "/leagueoflegendsgames/static/media/logo.f159f0951a43a9b99317.jpg",
+    "index.html": "/leagueoflegendsgames/index.html",
+    "main.6d0a86db.css.map": "/leagueoflegendsgames/static/css/main.6d0a86db.css.map",
+    "main.d820b443.js.map": "/leagueoflegendsgames/static/js/main.d820b443.js.map"
   },
   "entrypoints": [
-    "static/css/main.caebb327.css",
-    "static/js/main.cce3757a.js"
+    "static/css/main.6d0a86db.css",
+    "static/js/main.d820b443.js"
   ]
 }
