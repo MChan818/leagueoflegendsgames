@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/leagueoflegendsgames/static/css/main.6d0a86db.css",
-    "main.js": "/leagueoflegendsgames/static/js/main.d820b443.js",
+    "main.css": "/leagueoflegendsgames/static/css/main.e39349e8.css",
+    "main.js": "/leagueoflegendsgames/static/js/main.7a79b06d.js",
     "static/media/fondo.jpg": "/leagueoflegendsgames/static/media/fondo.e5237cefa42314995c34.jpg",
     "static/media/logo.jpg": "/leagueoflegendsgames/static/media/logo.f159f0951a43a9b99317.jpg",
+    "static/media/background.jpg": "/leagueoflegendsgames/static/media/background.2c9f041598cefc2defaf.jpg",
+    "static/media/Position_Gold-Jungle.png": "/leagueoflegendsgames/static/media/Position_Gold-Jungle.379826ab70507c5582f6.png",
     "index.html": "/leagueoflegendsgames/index.html",
-    "main.6d0a86db.css.map": "/leagueoflegendsgames/static/css/main.6d0a86db.css.map",
-    "main.d820b443.js.map": "/leagueoflegendsgames/static/js/main.d820b443.js.map"
+    "main.e39349e8.css.map": "/leagueoflegendsgames/static/css/main.e39349e8.css.map",
+    "main.7a79b06d.js.map": "/leagueoflegendsgames/static/js/main.7a79b06d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d0a86db.css",
-    "static/js/main.d820b443.js"
+    "static/css/main.e39349e8.css",
+    "static/js/main.7a79b06d.js"
   ]
 }
