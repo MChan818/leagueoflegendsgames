@@ -17,8 +17,6 @@ const Roulette = () =>{
         'LETALIDAD',
         'TANK',
         'MOV.SPD',
-        'AP ATK SPD',
-        'CURACION ALIADA',
         'SUPPORT',
         'QUEMADURA',
         'OMNIVAMP/LIFESTEAL',

@@ -2,7 +2,7 @@
   "name": "tournament-lol",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MChan818.github.io",
+  "homepage": "https://mchan818.github.io/leagueoflegendsgames/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
