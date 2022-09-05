@@ -15,9 +15,9 @@ const App = () =>{
     <BrowserRouter>
     <Navbar/>
       <Routes>
-      <Route path='/leagueoflegendsgames' element={<Home/>}/>
-      <Route path='/leagueoflegendsgames/tournament' element={<Tournament/>}/>
-      <Route path='/leagueoflegendsgames/roulette' element={<Roulette/>}/>
+      <Route path='/' element={<Home/>}/>
+      <Route path='/lol/tournament' element={<Tournament/>}/>
+      <Route path='/lol/roulette' element={<Roulette/>}/>
       </Routes>
     </BrowserRouter>
     </>

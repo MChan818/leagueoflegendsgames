@@ -10,12 +10,12 @@ const Navbar = () =>{
         <nav className='navbar-container'>
             <ul>
                 <li>
-                    <Link to={'/leagueoflegendsgames'}>
+                    <Link to={'/'}>
                         <img src={logo} alt="Home_logo" className='navbar-logo'/>
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/leagueoflegendsgames/roulette'}>
+                    <Link to={'/lol/roulette'}>
                         LoL Roulette
                     </Link>
                 </li>
